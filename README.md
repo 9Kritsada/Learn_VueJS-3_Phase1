@@ -1,24 +1,9 @@
-# my-app
+# Learn_VueJS-3
 
-## Project setup
-```
-yarn install
-```
+### --พัฒนาเว็บด้วย Vue.js (3.x) | สำหรับผู้เริ่มต้น [2022][Phase1]
+[>> Click Me! <<](https://youtu.be/9j537584dI0 "VueJS-3")
+https://youtu.be/9j537584dI0
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### --พัฒนาเว็บด้วย Vue.js (3.x) | สำหรับผู้เริ่มต้น [2022][Phase2]
+[>> Click Me! <<](https://youtu.be/aCDpE16MW54 "VueJS-3")
+https://youtu.be/aCDpE16MW54
